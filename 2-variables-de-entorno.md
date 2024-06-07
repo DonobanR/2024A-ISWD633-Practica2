@@ -1,4 +1,4 @@
-![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/699f9abd-d81f-4eea-acd8-c3a91956ddbc)# Variables de Entorno
+# Variables de Entorno
 ### ¿Qué son las variables de entorno
 Las variables de entorno en Docker son pares clave-valor usados para configurar aplicaciones dentro de contenedores. Se pueden definir en el Dockerfile usando ENV o al ejecutar un contenedor con -e. Permiten ajustar configuraciones como credenciales, modos de operación y parámetros específicos del entorno.
 
