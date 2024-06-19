@@ -48,9 +48,24 @@ docker network ls
 
 ![Imagen](imagenes/esquema-ejercicio-redes.PNG)
 
-# COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
+CAPTURA DE LAS REDES EXISTENTES CREADAS
 
-# COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/265a798a-c13b-47ba-b2a9-3cfe5af8ce75)
+
+
+CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+
+![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/7d39ec3e-d6b8-4884-a23c-a9514abeb637)
+
+![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/562bb7b6-7b5e-4081-9e46-86f46cfbae51)
+
+![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/511d95f7-6454-4397-b959-e0077a96f27d)
+
+![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/2cfac602-070c-411e-a7d0-dbdfed09553b)
+
+![image](https://github.com/DonobanR/2024A-ISWD633-Practica2/assets/135273301/eff8a4d6-2c99-43b2-ba3a-4c0e3b4bdf81)
+
+
 
 ### Para eliminar las redes creadas
 ```
